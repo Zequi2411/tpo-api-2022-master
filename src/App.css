@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.inicio,
+.cursos,
+.nosotros,
+.signup {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+/* .cursos {
+  background-image: url('/public/images/artes.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+} */
+
+.nosotros {
+  background-image: url('/public/images/artes.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.signup {
+  background-image: url('/public/images/artes.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+/* .ItemDetailContainer{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  flex-direction: column;
+  height: 1000px;
+}
+
+.ItemDetailPadre{
+  border: solid 3px black;
+  border-radius: 20px;
+
+}
+
+.ItemDetailHijo{
+  display: flex;
+  flex-direction: column;
+  height: 80%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.divPadreItemListContainer{
+  width: 100%;
+  min-height: 100vh;
+  padding: 5%;
+  background-image: url('/public/images/pizarron.jpg');
+  background-position: center;
+  background-size: cover;
+} */
+
+/* .LinkItemList{
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+.ItemButton{
+  border: solid 2px black;
+  background-color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  font-weight: bold;
+}
+ */
+/* .ILCdiv{
+  display: flex;
+  height: 100%;
+}
+.CS{
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80%;
+}
+
+.IPadre{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 300px;
+  border: solid 2px black;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  background-color: #fff;
+}
+.IH1{
+  display: flex;
+  justify-content:space-between ;
+  border-bottom: solid 1px black;
+}
+.IH2{
+  display: flex;
+}
+
+.ItemList{
+  background: #fff;
+} */
